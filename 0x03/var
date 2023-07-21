@@ -1,0 +1,5 @@
+#!/bin/bash
+
+MYVAR1="2"
+
+echo $MYVAR1
